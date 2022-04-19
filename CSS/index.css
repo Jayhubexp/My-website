@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  background-color: #8FBDD3;
+}
+div{
+  background-color: #3A3845;
+}
+
+
+
+img{
+  height:200px;
+  width: 300px;
+  border-radius: 100%;
+}
